@@ -1,7 +1,7 @@
 ##  Sobre mim 👩‍🦰
  
  Hello, there! Eu sou a Jessica, tenho 28 anos, sou de São Paulo.<br>
- Eu já cursei Design de Interiores, trabalhei com Prevenção à Fraude e agora estou me aventurando no mundo na tecnologia. Com 15 anos eu passava horas estilizando código no Tumblr (👵🏼) sem ter a menor ideia de que estava lidando com programação. Nesse momento estou estudando Desenvolvimento Front End por conta própria, fiz um curso básico de introdução através da [Programaria](https://www.programaria.org/), um curso de JavaScript na Udemy (em andamento) e estou no bootcamp de Desenvolvimento de Jogos com JavaScript da [DIO](https://www.dio.me/.).
+ Eu já cursei Design de Interiores, trabalhei com Prevenção à Fraude e agora estou me aventurando no mundo na tecnologia. Com 15 anos eu passava horas estilizando código no Tumblr (👵🏼) sem ter a menor ideia de que estava lidando com programação. Nesse momento estou estudando Desenvolvimento Front End por conta própria, fiz um curso básico de introdução através da [Programaria](https://www.programaria.org/), um curso de JavaScript na Udemy (em andamento) e participei do bootcamp de Desenvolvimento de Jogos com JavaScript da [DIO](https://www.dio.me/.), alguns dos projetos desenvolvidos estão fixados aqui no meu perfil :) 
 
  Star Wars, música e viagens são algumas das coisas que eu amo! 🤓🎧🌎
 
