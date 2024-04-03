@@ -1,7 +1,8 @@
 ##  Sobre mim 👩‍🦰
  
  Hello, there! Eu sou a Jessica, tenho 28 anos, sou de São Paulo.<br>
- Eu já cursei Design de Interiores, trabalhei com Prevenção à Fraude e agora estou me aventurando no mundo na tecnologia. Com 15 anos eu passava horas estilizando código no Tumblr (👵🏼) sem ter a menor ideia de que estava lidando com programação. Nesse momento estou estudando Desenvolvimento Front End, fiz um curso de introdução através da [Programaria](https://www.programaria.org/) e participei do bootcamp de Desenvolvimento de Jogos com JavaScript da [DIO](https://www.dio.me/.), que além do foco em JavaScript, também trabalhei minhas habilidades com HTML, CSS e Git/GitHub. Alguns dos projetos desenvolvidos estão fixados aqui no meu perfil :) 
+ Eu já cursei Design de Interiores, trabalhei com Prevenção à Fraude e agora estou me aventurando no mundo na tecnologia. Com 15 anos eu passava horas estilizando código no Tumblr (👵🏼) sem ter a menor ideia de que estava lidando com programação. Nesse momento estou estudando Análise e Desenvolvimento de Sistemas, além de já ter realizado alguns cursos focados em Front End.<br>
+ Se você compartilha meu interesse por tecnologia e inovação, estou ansiosa para nos conectarmos e explorarmos as possibilidades de colaboração futura 🚀
 
 ## Conecte-se comigo 💻
 
@@ -13,9 +14,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-76a5af?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-76a5af?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-76a5af?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-76a5af?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/git-76a5af.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-76a5af.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-76a5af.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## GitHub Stats
 
