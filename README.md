@@ -1,8 +1,8 @@
 ##  Sobre mim 👩‍🦰
  
- Hello, there! Eu sou a Jessica, tenho 28 anos, sou de São Paulo.<br>
- Eu já cursei Design de Interiores, trabalhei com Prevenção à Fraude e agora estou me aventurando no mundo na tecnologia. Com 15 anos eu passava horas estilizando código no Tumblr (👵🏼) sem ter a menor ideia de que estava lidando com programação. Nesse momento estou estudando Análise e Desenvolvimento de Sistemas, além de já ter realizado alguns cursos focados em Front End.<br>
- Se você compartilha meu interesse por tecnologia e inovação, estou ansiosa para nos conectarmos e explorarmos as possibilidades de colaboração futura 🚀
+ Hello, there! Eu sou a Jessica, sou de São Paulo.<br>
+ Eu já cursei Design de Interiores, trabalhei com Prevenção à Fraude e agora estou me aventurando no mundo na tecnologia. Com 15 anos eu passava horas estilizando código no Tumblr (👵🏼) sem ter a menor ideia de que estava lidando com programação. 
+ Hoje sou estudante de Análise de Sistemas e estagiária de QA, explorando o universo da tecnologia com foco em qualidade e usabilidade. Tenho interesse por metodologias ágeis, testes manuais e automação. Aqui compartilho projetos de front-end e aprendizados da minha jornada na área tech 🚀
 
 ## Conecte-se comigo 💻
 
